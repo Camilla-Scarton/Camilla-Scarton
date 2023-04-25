@@ -96,7 +96,9 @@
   </tr>
 
   <tr>
-    <td>???</td>
+    <td>
+      <img src="./img/screen_todo.jpg" alt="screen-mato" height="40">
+    </td>
     <td>
       <details>
         <summary><strong>Todo list app</strong></summary>
