@@ -114,15 +114,23 @@
   </tr>
 
   <tr>
-    <td>???</td>
+    <td align="center">
+      <img src="./img/screen_evolve.jpg" alt="screen-mato" height="40">
+    </td>
     <td>
       <details>
         <summary><strong>Evolve</strong></summary>
         Web app for fitness enthusiasts!
       </details>
     </td>
-    <td>???</td>
-    <td>???</td>
+    <td>
+      <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/PocketBase-282C34?logo=pocketbase" alt="PocketBase logo" title="PocketBase" height="25" />
+    </td>
+    <td>:seedling: :arrow_right: https://github.com/Camilla-Scarton/Evolve-Project-Develhope</td>
   </tr>
   
   <tr>
