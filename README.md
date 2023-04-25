@@ -12,9 +12,9 @@
     <tr>
       <td><img align="left" src="https://media.giphy.com/media/aTCvcjvNPdgYZPaRjq/giphy.gif" width="130" height="150" /></td>
       <td>
-        I'm an italian :pizza: web developer. I love music :notes:, cats :smiley_cat: and Sudoku :pencil2:.<br>
+        <strong>I'm an italian :pizza: web developer. I love music :notes:, cats :smiley_cat: and Sudoku :pencil2:.<br>
         I'm currently working on a complex puzzle :jigsaw: with each piece representing a new skill I acquire :hammer_and_wrench:.<br>
-        If I'm not reachable, I'm problably cooking :fried_egg:, gardening :seedling: or crocheting :yarn:.<br>
+        If I'm not reachable, I'm problably cooking :fried_egg:, gardening :seedling: or crocheting :yarn:.</strong>
       </td>
     </tr>
   </table>
@@ -30,7 +30,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Sass-282C34?logo=sass3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/Sass-282C34?logo=sass" alt="CSS3 logo" title="Sass" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
   &nbsp;
@@ -56,7 +56,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Java-282C34?logo=" alt="Java logo" title="Java" height="25" />
+  <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk" alt="Java logo" title="Java" height="25" />
 </details>
 
 <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="70" height="50" />
@@ -79,7 +79,7 @@
     <td>???</td>
     <td>
       <details>
-        <summary>Mato photos project</summary>
+        <summary><strong>Mato photos project</strong></summary>
         Move your mouse on the screen and see my photos collection of my beautiful cat!
       </details>
     </td>
@@ -97,7 +97,7 @@
     <td>???</td>
     <td>
       <details>
-        <summary>Todo list app</summary>
+        <summary><strong>Todo list app</strong></summary>
         Make your todos list, saved in the localStorage!
       </details>
     </td>
@@ -111,9 +111,22 @@
 
   <tr>
     <td>???</td>
-    <td><details><summary>???</summary>???</details></td>
+    <td>
+      <details>
+        <summary><strong>Evolve</strong></summary>
+        Web app for fitness enthusiasts!
+      </details>
+    </td>
     <td>???</td>
     <td>???</td>
   </tr>
+  
+  <tr>
+    <td>???</td>
+    <td><details><summary><strong>???</strong></summary>???</details></td>
+    <td>???</td>
+    <td>???</td>
+  </tr>
+  
 </tbody>
 </table>
