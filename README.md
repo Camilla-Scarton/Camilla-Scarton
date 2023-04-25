@@ -76,7 +76,9 @@
 </thead>
 <tbody>
   <tr>
-    <td>???</td>
+    <td>
+      <img src="./img/screen_mato.jpg" alt="screen-mato" height="40">
+    </td>
     <td>
       <details>
         <summary><strong>Mato photos project</strong></summary>
