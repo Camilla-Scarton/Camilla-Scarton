@@ -1,6 +1,6 @@
 # Hiii! :wave: I'm Camilla! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/Camilla-Scarton) 
+[![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/stars/Camilla-Scarton/lists/rocket-projects) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/camilla-scarton/) 
 [![Codewars](https://img.shields.io/badge/-Codewars-181717?style=flat&logo=Codewars&logoColor=red)](https://www.codewars.com/users/Camilla%20Scarton) 
 [![Gmail](https://img.shields.io/badge/-Gmail-E62229?style=flat&logo=Gmail&logoColor=white)](mailto:camy.s96@gmail.com)
