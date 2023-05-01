@@ -54,6 +54,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Vite-282C34?logo=vite" alt="Vite logo" title="Vite" height="25" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk" alt="Java logo" title="Java" height="25" />
