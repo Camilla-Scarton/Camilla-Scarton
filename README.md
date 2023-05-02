@@ -63,7 +63,7 @@
 
 <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="70" height="50" />
 
-## Portfolio :arrow_right: ???
+## Portfolio :arrow_right: ??? (work in progress)
 
 ## Best projects :arrow_heading_down:
 
@@ -133,6 +133,26 @@
       <img src="https://img.shields.io/badge/PocketBase-282C34?logo=pocketbase" alt="PocketBase logo" title="PocketBase" height="25" />
     </td>
     <td>:seedling: :arrow_right: https://github.com/Camilla-Scarton/Evolve-Project-Develhope</td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="./img/screen_tic-tac-toe.jpg" alt="screen-tic-tac-toe" height="40">
+    </td>
+    <td>
+      <details>
+        <summary><strong>Tic, Tac, Toe</strong></summary>
+        First version with working Reset e New Game buttons!
+      </details>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
+    </td>
+    <td>:deciduous_tree: :arrow_right: https://camilla-scarton.github.io/tic-tac-toe/</td>
   </tr>
   
   <tr>
