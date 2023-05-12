@@ -63,7 +63,7 @@
 
 <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="70" height="50" />
 
-## Portfolio :arrow_right: ??? (work in progress)
+## Portfolio :arrow_right: [Link](https://camilla-scarton.github.io/portfolio/)
 
 ## Best projects :arrow_heading_down:
 
@@ -87,14 +87,12 @@
         Move your mouse on the screen and see my photos collection of my beautiful cat!
       </details>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
-    <td>:deciduous_tree: :arrow_right: https://camilla-scarton.github.io/mato/</td>
+    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/mato/">Site link</a></td>
   </tr>
 
   <tr>
@@ -107,12 +105,11 @@
         Make your todos list, saved in the localStorage!
       </details>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
     </td>
-    <td>:seedling: :arrow_right: https://github.com/Camilla-Scarton/Todo-app-green</td>
+    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/Todo-app-green/">Site link</a></td>
   </tr>
 
   <tr>
@@ -125,14 +122,12 @@
         Web app for fitness enthusiasts!
       </details>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/PocketBase-282C34?logo=pocketbase" alt="PocketBase logo" title="PocketBase" height="25" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=pocketbase" alt="PocketBase logo" title="PocketBase" height="25" />
     </td>
-    <td>:seedling: :arrow_right: https://github.com/Camilla-Scarton/Evolve-Project-Develhope</td>
+    <td>:seedling: :arrow_right: <a href="https://github.com/Camilla-Scarton/Evolve-Project-Develhope">Repo link</a></td>
   </tr>
   
   <tr>
@@ -145,20 +140,18 @@
         First version with working Reset e New Game buttons!
       </details>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
-    <td>:deciduous_tree: :arrow_right: https://camilla-scarton.github.io/tic-tac-toe/</td>
+    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/tic-tac-toe/">Site link</a></td>
   </tr>
   
   <tr>
-    <td>???</td>
+    <td align="center">???</td>
     <td><details><summary><strong>???</strong></summary>???</details></td>
-    <td>???</td>
+    <td align="center">???</td>
     <td>???</td>
   </tr>
   
