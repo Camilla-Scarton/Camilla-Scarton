@@ -119,7 +119,7 @@
     <td>
       <details>
         <summary><strong>Mato photos project</strong></summary>
-        Move your mouse on the screen and see my photos collection of my beautiful cat!
+        Move your mouse and see my beautiful cat!
       </details>
     </td>
     <td align="center">
