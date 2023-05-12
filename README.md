@@ -63,7 +63,7 @@
 
 <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="70" height="50" />
 
-## Portfolio :arrow_right: [Link](https://camilla-scarton.github.io/portfolio/)
+## Portfolio :arrow_right: <a href="https://camilla-scarton.github.io/portfolio/" target="_blank">Link</a>
 
 ## Best projects :arrow_heading_down:
 
@@ -77,6 +77,41 @@
   </tr>
 </thead>
 <tbody>
+  
+  <tr>
+    <td align="center">
+      <img src="./img/screen_portfolio.jpg" alt="screen-portfolio" height="40">
+    </td>
+    <td>
+      <details>
+        <summary><strong>Portfolio</strong></summary>
+        My portfolio with 3 sections: About, Projects and Experiences.
+      </details>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
+    </td>
+    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/portfolio/" target="_blank">Site link</a></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="./img/screen_todo.jpg" alt="screen-todo" height="40">
+    </td>
+    <td>
+      <details>
+        <summary><strong>Todo list app</strong></summary>
+        Make your todos list, saved in the localStorage!
+      </details>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
+    </td>
+    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/Todo-app-green/" target="_blank">Site link</a></td>
+  </tr>
+  
   <tr>
     <td align="center">
       <img src="./img/screen_mato.jpg" alt="screen-mato" height="40">
@@ -92,29 +127,12 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
-    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/mato/">Site link</a></td>
+    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/mato/" target="_blank">Site link</a></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="./img/screen_todo.jpg" alt="screen-mato" height="40">
-    </td>
-    <td>
-      <details>
-        <summary><strong>Todo list app</strong></summary>
-        Make your todos list, saved in the localStorage!
-      </details>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
-    </td>
-    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/Todo-app-green/">Site link</a></td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="./img/screen_evolve.jpg" alt="screen-mato" height="40">
+      <img src="./img/screen_evolve.jpg" alt="screen-evolve" height="40">
     </td>
     <td>
       <details>
@@ -127,7 +145,7 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=pocketbase" alt="PocketBase logo" title="PocketBase" height="25" />
     </td>
-    <td>:seedling: :arrow_right: <a href="https://github.com/Camilla-Scarton/Evolve-Project-Develhope">Repo link</a></td>
+    <td>:seedling: :arrow_right: <a href="https://github.com/Camilla-Scarton/Evolve-Project-Develhope" target="_blank">Repo link</a></td>
   </tr>
   
   <tr>
@@ -145,14 +163,7 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
-    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/tic-tac-toe/">Site link</a></td>
-  </tr>
-  
-  <tr>
-    <td align="center">???</td>
-    <td><details><summary><strong>???</strong></summary>???</details></td>
-    <td align="center">???</td>
-    <td>???</td>
+    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/tic-tac-toe/" target="_blank">Site link</a></td>
   </tr>
   
 </tbody>
