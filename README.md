@@ -97,6 +97,23 @@
   
   <tr>
     <td align="center">
+      <img src="./img/screen_pokedex.jpg" alt="screen-pokedex" height="40">
+    </td>
+    <td>
+      <details>
+        <summary><strong>My Pokédex</strong></summary>
+        Pokémon list with filters, scroll buttons and a details section!
+      </details>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+    </td>
+    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/pokedex/" target="_blank">Site link</a></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
       <img src="./img/screen_todo.jpg" alt="screen-todo" height="40">
     </td>
     <td>
