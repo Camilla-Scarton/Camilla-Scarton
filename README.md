@@ -73,7 +73,7 @@
     <th>Detail</th>
     <th>Project name</th>
     <th>Tech</th>
-    <th>Link</th>
+    <th colspan="2">Links</th>
   </tr>
 </thead>
 <tbody>
@@ -92,7 +92,8 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
     </td>
-    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/portfolio/" target="_blank">Site link</a></td>
+    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/portfolio/" target="_blank">Site</a></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/portfolio" target="_blank">Code</a></td>
   </tr>
   
   <tr>
@@ -109,7 +110,8 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
     </td>
-    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/pokedex/" target="_blank">Site link</a></td>
+    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/pokedex/" target="_blank">Site</a></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/pokedex" target="_blank">Code</a></td>
   </tr>
   
   <tr>
@@ -126,7 +128,8 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
     </td>
-    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/Todo-app-green/" target="_blank">Site link</a></td>
+    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/Todo-app-green/" target="_blank">Site</a></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/Todo-app-green" target="_blank">Code</a></td>
   </tr>
   
   <tr>
@@ -144,7 +147,8 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
-    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/mato/" target="_blank">Site link</a></td>
+    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/mato/" target="_blank">Site</a></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/mato" target="_blank">Code</a></td>
   </tr>
 
   <tr>
@@ -162,7 +166,8 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=pocketbase" alt="PocketBase logo" title="PocketBase" height="25" />
     </td>
-    <td>:seedling: :arrow_right: <a href="https://github.com/Camilla-Scarton/Evolve-Project-Develhope" target="_blank">Repo link</a></td>
+    <td></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/Evolve-Project-Develhope" target="_blank">Code</a></td>
   </tr>
   
   <tr>
@@ -180,7 +185,8 @@
       <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
-    <td>:deciduous_tree: :arrow_right: <a href="https://camilla-scarton.github.io/tic-tac-toe/" target="_blank">Site link</a></td>
+    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/tic-tac-toe/" target="_blank">Site</a></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/tic-tac-toe" target="_blank">Code</a></td>
   </tr>
   
 </tbody>
