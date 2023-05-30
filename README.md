@@ -134,6 +134,25 @@
   
   <tr>
     <td align="center">
+      <img src="./img/screen_snake.jpg" alt="screen-snake" height="40">
+    </td>
+    <td>
+      <details>
+        <summary><strong>Snake</strong></summary>
+        Snake game with two modes and sound effects!
+      </details>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
+    </td>
+    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/snake/" target="_blank">Site</a></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/snake" target="_blank">Code</a></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
       <img src="./img/screen_mato.jpg" alt="screen-mato" height="40">
     </td>
     <td>
