@@ -98,6 +98,24 @@
   
   <tr>
     <td align="center">
+      <img src="./img/screen_pokemon-app.jpg" alt="screen-pokemon-app" height="40">
+    </td>
+    <td>
+      <details>
+        <summary><strong>My Pokémon app</strong></summary>
+        A Pokémon web app with a landing page and 2 sections: List and Search.
+      </details>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+    </td>
+    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/pokemon-app/" target="_blank">Site</a></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/pokemon-app" target="_blank">Code</a></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
       <img src="./img/screen_pokedex.jpg" alt="screen-pokedex" height="40">
     </td>
     <td>
