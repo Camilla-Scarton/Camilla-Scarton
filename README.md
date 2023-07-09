@@ -40,6 +40,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Angular-282C34?logo=angular" alt="Angular logo" title="Angular" height="25" />
+  &nbsp;
   <img src="https://img.shields.io/badge/npm-282C34?logo=npm" alt="npm logo" title="npm" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=43853D" alt="Node.js logo" title="Node.js" height="25" />
@@ -49,6 +51,8 @@
   <img src="https://img.shields.io/badge/PocketBase-282C34?logo=pocketbase" alt="PocketBase logo" title="PocketBase" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitKraken-282C34?logo=gitkraken" alt="git kraken" title="kraken" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/VSCode-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   &nbsp;
