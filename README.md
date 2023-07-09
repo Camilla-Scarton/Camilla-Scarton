@@ -172,6 +172,25 @@
     <td>:desktop_computer: <a href="https://camilla-scarton.github.io/snake/" target="_blank">Site</a></td>
     <td>:keyboard: <a href="https://github.com/Camilla-Scarton/snake" target="_blank">Code</a></td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./img/screen_r-p-s-l-s.jpg" alt="screen-rock-paper-scissors-lizard-spock" height="40">
+    </td>
+    <td>
+      <details>
+        <summary><strong>Rock, Paper, Scissors, Lizard, Spock</strong></summary>
+        Simple version of the expanded game... with an Easter egg!
+      </details>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%20-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
+    </td>
+    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/rock-paper-scissors-lizard-spock/" target="_blank">Site</a></td>
+    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/rock-paper-scissors-lizard-spock" target="_blank">Code</a></td>
+  </tr>
   
   <tr>
     <td align="center">
@@ -190,44 +209,6 @@
     </td>
     <td>:desktop_computer: <a href="https://camilla-scarton.github.io/mato/" target="_blank">Site</a></td>
     <td>:keyboard: <a href="https://github.com/Camilla-Scarton/mato" target="_blank">Code</a></td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="./img/screen_evolve.jpg" alt="screen-evolve" height="40">
-    </td>
-    <td>
-      <details>
-        <summary><strong>Evolve</strong></summary>
-        Web app for fitness enthusiasts!
-      </details>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=tailwindcss&logoColor=0EA5E9" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=pocketbase" alt="PocketBase logo" title="PocketBase" height="25" />
-    </td>
-    <td></td>
-    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/Evolve-Project-Develhope" target="_blank">Code</a></td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <img src="./img/screen_tic-tac-toe.jpg" alt="screen-tic-tac-toe" height="40">
-    </td>
-    <td>
-      <details>
-        <summary><strong>Tic, Tac, Toe</strong></summary>
-        First version with working Reset e New Game buttons!
-      </details>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/%20-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
-    </td>
-    <td>:desktop_computer: <a href="https://camilla-scarton.github.io/tic-tac-toe/" target="_blank">Site</a></td>
-    <td>:keyboard: <a href="https://github.com/Camilla-Scarton/tic-tac-toe" target="_blank">Code</a></td>
   </tr>
   
 </tbody>
