@@ -28,7 +28,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/Sass-282C34?logo=sass" alt="CSS3 logo" title="Sass" height="25" />
   &nbsp;
@@ -112,7 +112,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
     </td>
     <td>:desktop_computer: <a href="https://camilla-scarton.github.io/pokemon-app/" target="_blank">Site</a></td>
     <td>:keyboard: <a href="https://github.com/Camilla-Scarton/pokemon-app" target="_blank">Code</a></td>
@@ -130,7 +130,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
     </td>
     <td>:desktop_computer: <a href="https://camilla-scarton.github.io/pokedex/" target="_blank">Site</a></td>
     <td>:keyboard: <a href="https://github.com/Camilla-Scarton/pokedex" target="_blank">Code</a></td>
@@ -166,7 +166,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/%20-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
     <td>:desktop_computer: <a href="https://camilla-scarton.github.io/snake/" target="_blank">Site</a></td>
@@ -185,7 +185,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/%20-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
     <td>:desktop_computer: <a href="https://camilla-scarton.github.io/rock-paper-scissors-lizard-spock/" target="_blank">Site</a></td>
@@ -204,7 +204,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/%20-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-      <img src="https://img.shields.io/badge/%20-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+      <img src="https://img.shields.io/badge/%20-282C34?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
       <img src="https://img.shields.io/badge/%20-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
     </td>
     <td>:desktop_computer: <a href="https://camilla-scarton.github.io/mato/" target="_blank">Site</a></td>
