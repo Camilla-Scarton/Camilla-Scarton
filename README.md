@@ -13,8 +13,8 @@
       <td><img align="left" src="https://media.giphy.com/media/aTCvcjvNPdgYZPaRjq/giphy.gif" width="130" height="150" /></td>
       <td>
         <strong>I'm an italian :pizza: web developer. I love music :notes:, cats :smiley_cat: and Sudoku :pencil2:.<br>
-        I'm currently working on a complex puzzle :jigsaw: with each piece representing a new skill I acquire :hammer_and_wrench:.<br>
-        If I'm not reachable, I'm problably cooking :fried_egg:, gardening :seedling: or crocheting :yarn:.</strong>
+        I'm currently working on a complex puzzle :sparkles: with each piece representing a new skill I acquire :hammer_and_wrench:.<br>
+        If I'm not reachable, I'm problably cooking :fried_egg:, gardening :seedling: or crocheting :chains:.</strong>
       </td>
     </tr>
   </table>
