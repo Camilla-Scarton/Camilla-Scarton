@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk" alt="Java logo" title="Java" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DevExtreme-282C34" alt="DevExtreme logo" title="DevExtreme" height="25" />
 </details>
 
 <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="70" height="50" />
